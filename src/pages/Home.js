@@ -27,8 +27,8 @@ class Home extends Component {
   render() {
     return (
       <div className="Home">
-        <p> Replace this</p>
-        <h1>Todo's </h1>
+        <p>Done</p>
+        <h1>Lesson 1</h1>
       </div>
     );
   }
