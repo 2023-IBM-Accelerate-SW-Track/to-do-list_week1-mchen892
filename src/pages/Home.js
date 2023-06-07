@@ -28,7 +28,7 @@ class Home extends Component {
     return (
       <div className="Home">
         <p>Done</p>
-        <h1>Lesson 1</h1>
+        <h1>Lesson 1 hello</h1>
       </div>
     );
   }
